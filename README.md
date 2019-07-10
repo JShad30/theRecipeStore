@@ -116,6 +116,8 @@ Slideshow on the homepage - https://www.the-art-of-web.com/css/fading-slideshow-
 
 The following link was a guide I used to help create the membership areas and implement user authentication - https://pythonspot.com/login-authentication-with-flask/ and from youtube I used https://www.youtube.com/watch?v=d04xxdrc7Yw
 
+I used the following to learn the basics of uploading the recipes with the SQLAlchemy database method (Corey Schafer youtube) https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
+
 Sticky Social links on all pages when viewed on desktop - https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
 
 To send the email from the contact form - https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982
